@@ -1,6 +1,5 @@
 # Angular-Interview-Questions-Answer
 
-# Basic Questions
 1. What is Angular 2?
 2. What are the fundamentals concepts of Angular 2?
 3. What Are The New Features Of Angular 2? Why You Used Angular 2?
